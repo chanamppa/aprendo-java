@@ -46,6 +46,16 @@ public class Arrays {
         System.out.println(letras[0]);
 
 
+        //Otra forma de declarara arrays de 2 dimensiones
+        int[][] testNumbers = {
+                {10, 2640},
+                {15, 13160},
+                {20, 41230},
+                {50, 1582700}
+        };
+
+        System.out.println(testNumbers[0][0]);
+
         }
 
 
