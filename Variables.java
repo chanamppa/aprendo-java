@@ -1,4 +1,5 @@
 public class Variables {
+    static int dias = 7; //Así se declaran variables globales
     public static void main(String[] args) {
         //Declarando una Variable
         int speed;
