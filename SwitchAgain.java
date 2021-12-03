@@ -5,7 +5,8 @@ public class SwitchAgain {
 
         int n;
         Scanner leerNumero = new Scanner(System.in);
-
+        
+     do{
         System.out.println("Elíga Una Opción");
 
         System.out.println("1- Peliculas");
@@ -28,9 +29,8 @@ public class SwitchAgain {
             case 4:
                 System.out.println("By Bye");
                 break;
-            default:
-                System.out.println("Elíge una opción");
         }
+        }while(n!=4);
 
     }
 }
