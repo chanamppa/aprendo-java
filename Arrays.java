@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Arrays {
@@ -58,26 +57,12 @@ public class Arrays {
         };
 
         System.out.println(testNumbers[0][0]);
-        
-        
-        //--------------------------------------------------
-        //Así declaro e imprimo un array con scanner
-        
-        Scanner leer = new Scanner(System.in);
-       int[] numer = new int[10];
-
-        for (int i = 0; i < numer.length; i++) {
-            System.out.println("Ingresa el " +i+ " numero" );
-            numer[i] = leer.nextInt();
-        }
-        System.out.println("Los numeros que ingresaste son: ");
-        Arrays.stream(numer).forEach(System.out::println);
-        
-
-        }
 
 
-        }
+    }
+
+
+}
 
 
 
