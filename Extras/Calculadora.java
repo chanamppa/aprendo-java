@@ -1,3 +1,5 @@
+package Extras;
+
 import java.util.Scanner;
 
 //Hice una pequeña calculadora donde metes 2 numeros sale el resultado ya sea cualquier

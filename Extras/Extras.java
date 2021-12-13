@@ -1,3 +1,5 @@
+package Extras;
+
 public class Extras {
     public static void main(String[] args) {
         String [] autos = {"Bmw", "Ford", "Toyota"};

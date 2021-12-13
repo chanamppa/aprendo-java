@@ -1,3 +1,4 @@
+package Extras;
 
 //El jOptionPane es una entrada y salida de datos, es como la consola pero más gráfico
 public class JOptionPane {

@@ -1,3 +1,5 @@
+package Extras;
+
 public class PromedioAlumnos {
     public static void main(String[] args) {
         int nota1 = 7;
