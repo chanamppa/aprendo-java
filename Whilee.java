@@ -9,7 +9,7 @@ public class Whilee {
 
         isTurnOnOffLight();
 
-        //Acá esta el while, que dice: mientras esto funcione voy a imprimir esto
+        //Acá esta el while, que dice: mientras esto sea verdadero se va a imprimir, hasta que sea falso.
         int i = 0;
         while (isTurnOnLight && i<=20){
             printSos();
